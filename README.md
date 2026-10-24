@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://wlmosv.dpdns.org/svg/hero" alt="WLMOSV — Android 开源工具" width="840">
+<img src="https://wlmosv.dpdns.org/svg/hero" alt="WLMOSV — Android 开源工具" width="100%">
 </div>
 
 <br>
